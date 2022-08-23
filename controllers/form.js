@@ -26,15 +26,3 @@ exports.calculate = (req, res) => {
 
 
 
-  // const{amount,description,category}=req.body;
-  // //console.log(req)
-  // console.log(req.body.id)
-  // console.log(req.body.amount)
-  // console.log(req.body.description)
-  // console.log(req.body.category)
-
-  // formTable.create({amount,description,category}).then(()=>{
-  //   res.json({"message":"Your records are Submitted"})
-  // }).catch((err) => res.json({"message":"Something went wrong"}))
-
-//}
